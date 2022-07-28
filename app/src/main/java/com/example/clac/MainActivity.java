@@ -1,3 +1,4 @@
+ // Scientific Calculator Project
 package com.example.clac;
 
 import androidx.appcompat.app.AppCompatActivity;
